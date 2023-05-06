@@ -1,5 +1,5 @@
 .navbar navbar-ews bg-{
-    background-color: #004a17;
+    background-color: red;
 }
 
 .logotipox{
@@ -28,9 +28,19 @@
     font-family: 'calibri';
     
 }
-
+ 
 .botonformulario{
     width: 100%;
     background-color: red;
     color: #93ff20;
+}
+
+.colorcarru{
+    background-color: green;
+    color:yellow;
+}
+
+.colorparracarru{
+    background-color: green;
+    color:yellow;
 }
